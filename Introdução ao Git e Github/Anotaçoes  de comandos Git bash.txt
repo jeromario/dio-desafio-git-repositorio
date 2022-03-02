@@ -1,0 +1,20 @@
+O git bash é um terminal extendido para otimizar o uso do Git
+    
+Os comandos
+ls = Lista de diretorio (Todas as pastas situada)
+cd / = Possibilitar que navegue entre as pastas .
+cd .. = Para retroceder .
+ctrl + l = Limpa tela .
+Tab = Atalho que completa a palavra .
+mkdir = Criar uma pasta .
+del = deleta arquivos 
+rmdir = deleta o repositorio com flag (S/Q).
+
+COMANDOS BASICOS DO GIT
+
+git clone = Copia um repositorio do Git existente.
+git init = Cria um novo repositorio do Git
+git add = comando adiciona os arquivos solicitado ao stage
+git commit = gravação em si das modificações , criamos um snapshot do estado atual. forma muito usada é o git commit -m (descrição das atualizações do projeto , onde o -m é uma flag
+git push = os arquivos serão salvos no repositorio remoto correspondente
+git status = permite ver quais arquivos estão sendo rastreados
